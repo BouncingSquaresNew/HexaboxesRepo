@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ben\Developement\AndroidStudio\Bouncing Squares\workspace1\GraphicsDemo\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="C:\Users\Ben\Developement\AndroidStudio\Bouncing Squares\workspace1\GraphicsDemo\build\intermediates\pre-dexed\debug\android-support-v4-273ff8a8cc1bbefd13b8ef86b406a8c90c2a123b.jar" />
+    </item>
+
+</items>
