@@ -19,7 +19,7 @@ import android.graphics.Typeface;
 public class HexaboxesMain extends Screen {
 
     /* Variable declaration */
-    private static String versionNumber = "0.0.2.2"; //The current app version number
+    private static String versionNumber = "0.0.2.3.1"; //The current app version number
 
     //	This generates a new ArrayList for the values of the square objects
     private ArrayList<Hexabox> hexaboxes = new ArrayList<Hexabox>(); //An array list containing the hexaboxes
