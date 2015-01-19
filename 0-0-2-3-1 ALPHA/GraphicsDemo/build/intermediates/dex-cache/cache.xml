@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ben\Developement\AndroidStudio\Hexaboxes\workspace1\GraphicsDemo\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="C:\Users\Ben\Developement\AndroidStudio\Hexaboxes\workspace1\GraphicsDemo\build\intermediates\pre-dexed\debug\android-support-v4-8a3c2e019a44c9706cc08fb35dc6ac1e20955f03.jar" />
+    </item>
+
+</items>
